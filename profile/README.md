@@ -22,7 +22,7 @@ This application is designed to help you manage your personal library like a pro
 🛠️ Built With:
 
 - Spring Boot
-- Spring cloud
+- Spring Cloud
 - Spring Data
 - Spring Security
 - Spring MVC
